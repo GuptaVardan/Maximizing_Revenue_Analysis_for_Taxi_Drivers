@@ -10,7 +10,7 @@ Analyze the impact of payment methods on taxi fares using statistical techniques
 - The dataset contains taxi trip records with features such as passenger count, payment type, fare amount, trip distance, and trip duration.
 - Data cleaning steps include handling missing values, correcting data types, removing duplicates, and filtering outliers.
 
-![Dataset Description](data/image.png)
+![Dataset Description](/image/image.png)
 
 
 ## Approach
