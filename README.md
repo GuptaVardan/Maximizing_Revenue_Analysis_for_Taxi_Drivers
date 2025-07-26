@@ -1,4 +1,4 @@
-# Maximizing Revenue for Taxi Cab Drivers Through Payment Type Analysis
+# Maximizing Revenue for Taxi Cab Drivers Through Statistical Analysis
 
 ## Problem Statement
 In today's competitive world of taxi services, maximizing revenue is crucial for both long-term success and driver satisfaction. This project investigates how different payment methods (credit card vs. cash) affect fare pricing and overall driver revenue.
